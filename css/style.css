@@ -25,11 +25,13 @@ body {
 .hero h3 {
 	font-size: 36px;
 	font-style: normal;
+	font-weight: 200;
 	color: #4D4F62;
 }
 
 .hero h3 span {
 	font-style: normal;
+	font-weight: bold;
 }
 
 .hero p {
